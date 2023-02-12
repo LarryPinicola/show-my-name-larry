@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-larry",
+  "version": "1.0.0",
+  "description": "trying to create my own package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarryPinicola/show-my-name-larry.git"
+  },
+  "keywords": [
+    "show-my-name-larry"
+  ],
+  "author": "Larry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarryPinicola/show-my-name-larry/issues"
+  },
+  "homepage": "https://github.com/LarryPinicola/show-my-name-larry#readme"
+}
